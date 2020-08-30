@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.all{
+    margin-top: 60px;
+    margin-left: 260px;
+    margin-right: 100px;
+    padding: 0;
+}
+
+.all .header{
+    height: 220px;
+    width: 1030px;
+    background: #333f50;
+}
+
+.name{
+    display: flex;
+    margin-left: 330px;
+    padding-top: 60px;
+    font-size: 35px;
+    
+}
+
+.iq    {
+    color: #c45911;
+}
+
+.sh{
+    color: #ffffff;
+    padding-left: 15px;
+}
+
+.no{
+   color: #ffffff;
+    margin-left: 420px;
+    font-size: 25px;
+    padding-top: 2px;
+}
+
+
+.email{
+    color: #ffffff;
+    height: 100px;
+    width: 240px;
+    color: #ffffff;
+    margin-left: 404px;
+    font-size: 25px;
+    padding-top: 2px;
+}
+
+.sceond{
+    width: 820px;
+    height: 130px;
+    display: flex;
+    padding-top: 20px;
+    margin-left: 120px;
+}
+
+.text{
+    height: 100px;
+    width: 600px;
+    padding-top: 20px;
+}
+
+
+img{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    border: 2px solid #F00FDE;
+    margin-left: 150px;
+    
+}
+
+.ami{
+    height: 2px;
+    width: 1040px;
+}
+.third{
+    display: flex;
+}
+.ex{
+    color: #c45911;
+    padding-top: 10px;
+}
+
+
+.mas{
+    height: 20px;
+    width: 780px;
+    display: flex;
+    margin-top: 50px;
+}
+
+.mas2{
+    margin-left: 520px;
+    color: #989497;
+}
+.mas3{
+    margin-left: 490px;
+    color: #989497;
+}
+.vl {
+  border-left: 1px solid black;
+  height: 600px;
+
+}
+
+ul{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+
+.t{
+    font-size: 20px;
+}
+
+h4{
+    margin-top: 10px;
+}
+.four{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.hi{
+     color: #c45911;
+    font-size: 20px;
+}
+
+.flt{
+    display: flex;
+    
+}
+
+.box{
+   border: 3px solid black;
+}
+
+
+
+
+
+
+
+
+
